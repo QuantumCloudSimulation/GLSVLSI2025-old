@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "QuantumCloudSimulation"
+version: "1.0.0"
+doi: "10.5281/zenodo.14903290"
+authors:
+  - name: ""
+    affiliation: ""
+date-released: "2025-02-20"
